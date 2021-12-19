@@ -1,0 +1,34 @@
+.container {
+  background-color: #f8f5f1;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  max-width: 550px;
+  border-color: #0c2b22;
+  border-radius: 20%;
+  border-width: 20px;
+  margin-bottom: 700px;
+}
+.main_header {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 9px;
+  max-width: 300px;
+  text-align: center;
+  color: orange;
+  font-weight: 700;
+  font-size: 35px;
+  font-family: 'Libre Baskerville', serif;
+}
+.contacts_header {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  max-width: 150px;
+  color: #f2f2f2;
+  color: orange;
+  font-size: 25px;
+  font-family: 'Libre Baskerville', serif;
+}
